@@ -1,6 +1,6 @@
 Greetings everyone!
 
-##Overview
+##Overview##
 'Datanation.us' is an open-source data project to explore and identify patterns in U.S. economic data utilizing techniques in data engineering, analytics, and deep learning.
 
 Our goal with this approach is to achieve a clear understanding about the U.S. as a data-driven nation. (that's why the name of the project).
